@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ldj5y8D76UEBuj7wPk+hDDw/j4DWlUchThgOVEZu5Tkq99mgt2l6ADUnH3/ZTNi/QzWhgX684N8/duMDDw7Pfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vivia\\source\\repos\\Varsity\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vivia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
